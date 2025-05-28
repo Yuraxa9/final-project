@@ -4,10 +4,6 @@ node_modules
 dist
 cypress
 services
-centering-component
-feed-info
-ingredients-category
-modal
 order-card
 order-info
 order-status
