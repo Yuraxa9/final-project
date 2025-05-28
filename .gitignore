@@ -4,9 +4,6 @@ node_modules
 dist
 cypress
 services
-burger-constructor-element
-burger-ingredient
-burger-ingredients
 centering-component
 feed-info
 ingredients-category
