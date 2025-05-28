@@ -4,7 +4,3 @@ node_modules
 dist
 cypress
 services
-orders-list
-profile-menu
-protected-route
-ui
