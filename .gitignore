@@ -4,9 +4,6 @@ node_modules
 dist
 cypress
 services
-app
-app-header
-burger-constructor
 burger-constructor-element
 burger-ingredient
 burger-ingredients
